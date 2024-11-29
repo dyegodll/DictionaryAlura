@@ -1,0 +1,14 @@
+C:\Users\dyego.lima\source\repos\DictionaryAlura\DictionaryAlura\bin\Debug\net8.0\DictionaryAlura.exe
+C:\Users\dyego.lima\source\repos\DictionaryAlura\DictionaryAlura\bin\Debug\net8.0\DictionaryAlura.deps.json
+C:\Users\dyego.lima\source\repos\DictionaryAlura\DictionaryAlura\bin\Debug\net8.0\DictionaryAlura.runtimeconfig.json
+C:\Users\dyego.lima\source\repos\DictionaryAlura\DictionaryAlura\bin\Debug\net8.0\DictionaryAlura.dll
+C:\Users\dyego.lima\source\repos\DictionaryAlura\DictionaryAlura\bin\Debug\net8.0\DictionaryAlura.pdb
+C:\Users\dyego.lima\source\repos\DictionaryAlura\DictionaryAlura\obj\Debug\net8.0\DictionaryAlura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dyego.lima\source\repos\DictionaryAlura\DictionaryAlura\obj\Debug\net8.0\DictionaryAlura.AssemblyInfoInputs.cache
+C:\Users\dyego.lima\source\repos\DictionaryAlura\DictionaryAlura\obj\Debug\net8.0\DictionaryAlura.AssemblyInfo.cs
+C:\Users\dyego.lima\source\repos\DictionaryAlura\DictionaryAlura\obj\Debug\net8.0\DictionaryAlura.csproj.CoreCompileInputs.cache
+C:\Users\dyego.lima\source\repos\DictionaryAlura\DictionaryAlura\obj\Debug\net8.0\DictionaryAlura.dll
+C:\Users\dyego.lima\source\repos\DictionaryAlura\DictionaryAlura\obj\Debug\net8.0\refint\DictionaryAlura.dll
+C:\Users\dyego.lima\source\repos\DictionaryAlura\DictionaryAlura\obj\Debug\net8.0\DictionaryAlura.pdb
+C:\Users\dyego.lima\source\repos\DictionaryAlura\DictionaryAlura\obj\Debug\net8.0\DictionaryAlura.genruntimeconfig.cache
+C:\Users\dyego.lima\source\repos\DictionaryAlura\DictionaryAlura\obj\Debug\net8.0\ref\DictionaryAlura.dll
